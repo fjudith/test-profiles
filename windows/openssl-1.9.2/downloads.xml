@@ -3,11 +3,11 @@
 <PhoronixTestSuite>
   <Downloads>
     <Package>
-      <URL>http://www.openssl.org/source/old/1.0.2/openssl-1.0.2q.tar.gz</URL>
-      <MD5>7563e1ce046cb21948eeb6ba1a0eb71c</MD5>
-      <SHA256>5744cfcbcec2b1b48629f7354203bc1e5e9b5466998bbccc5b5fcde3b18eb684</SHA256>
-      <FileName>openssl-1.0.2q.tar.gz</FileName>
-      <FileSize>5345604</FileSize>
+      <URL>http://github.com/openssl/openssl/archive/OpenSSL_1_0_2q.tar.gz</URL>
+      <MD5>e18c8ccee1ca2cb68e104576ae7cbacf</MD5>
+      <SHA256>a8531541d93bb4486bc07abdc0018c4d759643d6e30dfc514c5939364b3230ca</SHA256>
+      <FileName>OpenSSL_1_0_2q.tar.gz</FileName>
+      <FileSize>5371971</FileSize>
       <PlatformSpecific>Linux, Solaris, BSD, MacOSX</PlatformSpecific>
     </Package>
     <Package>
