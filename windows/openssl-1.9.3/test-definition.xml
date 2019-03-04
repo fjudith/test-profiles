@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<!--Phoronix Test Suite v8.0.0m0-->
+<!--Phoronix Test Suite v8.4.1-->
 <PhoronixTestSuite>
   <TestInformation>
     <Title>OpenSSL</Title>
-    <AppVersion>1.0.2q</AppVersion>
+    <AppVersion>1.0.2r</AppVersion>
     <Description>OpenSSL is an open-source toolkit that implements SSL (Secure Sockets Layer) and TLS (Transport Layer Security) protocols. This test measures the RSA 4096-bit performance of OpenSSL. This test profile fork features Windows support.</Description>
     <ResultScale>Signs Per Second</ResultScale>
     <Proportion>HIB</Proportion>
@@ -11,7 +11,7 @@
     <TimesToRun>3</TimesToRun>
   </TestInformation>
   <TestProfile>
-    <Version>1.10.0</Version>
+    <Version>1.9.3</Version>
     <SupportedPlatforms>Linux, Solaris, BSD, MacOSX, Windows</SupportedPlatforms>
     <SoftwareType>Utility</SoftwareType>
     <TestType>Processor</TestType>

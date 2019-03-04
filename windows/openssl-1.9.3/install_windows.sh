@@ -1,6 +1,6 @@
 #!/bin/sh
 
-unzip -o openssl-1.0.2q-x64_86-win64.zip
+unzip -o openssl-1.0.2r-x64_86-win64.zip
 mv openssl.exe openssl-win64.exe
 
 echo "#!/bin/sh
